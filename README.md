@@ -1,5 +1,5 @@
 # Bankist_App
-An Application to Manage Bank Accounts \n
+An Application to Manage Bank Accounts <br>
 Test Data : \n
 username : js, pin : 1111 
 username : jd, pin : 2222
