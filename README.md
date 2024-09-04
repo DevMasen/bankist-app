@@ -1,5 +1,6 @@
 # Bankist App 🏦
 ### An application to manage bank accounts and do bank operations written with HTML, CSS and Javascript.
+### Main project by "Jonas Schmedtmann" from "Udemy".
 ### Run the program with live-server on `index.html`
 #### Use this information to login to default accounts : 
 > Username : `js`  Pin : `1111` <br>
