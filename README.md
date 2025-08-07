@@ -1,6 +1,6 @@
 <h1 align="center"> Bankist App 🏦 </h1>
 <p align="center">
-<img src="./banner.png">
+<img align="center" width="720px" src="./banner.png">
 </p>
 
 ### An application to manage bank accounts and do bank operations written with HTML, CSS and Javascript.
